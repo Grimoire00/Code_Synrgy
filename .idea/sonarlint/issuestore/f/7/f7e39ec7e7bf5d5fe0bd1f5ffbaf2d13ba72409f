@@ -1,0 +1,11 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Þæé€J$edc7decf-619d-400a-b1a8-7f633c567d0e
+t
+java:S1854	"8Remove this useless assignment to local variable "noHp".( ¿¼·J$3dc07ba6-d3e6-40cd-ae52-dda4a18842c1
+k
+java:S1197"*Move the array designators [] to the type.(ì¤åËüÿÿÿÿJ$f6260347-3f12-4b47-a84b-f008f8f348af
+k	java:S106"+Replace this use of System.out by a logger.(ŒŸ¦‹ùÿÿÿÿJ$ee16e55e-ba0d-4f10-8162-fd7902aa51fd
+f
+java:S1197	"*Move the array designators [] to the type.( ¿¼·J$ebdc4d04-d2de-470c-8024-f0a7ff103faf
+e
+java:S1481	")Remove this unused "noHp" local variable.( ¿¼·J$5a79062a-852b-4495-b693-6a8804bf9c05

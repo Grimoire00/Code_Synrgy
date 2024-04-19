@@ -1,0 +1,40 @@
+
+e
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(ÀƒåÓ8ñ‚²ç1
+e
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(ªÎ¹8ñ‚²ç1
+j
+java:S2184""HCast one of the operands of this multiplication operation to a "double".(·¶Š»úÿÿÿÿ8ñ‚²ç1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÄƒ£ûÿÿÿÿ8ñ‚²ç1
+W
+java:S1854":Remove this useless assignment to local variable "diskon".(ÀƒåÓ8‰ñ‚²ç1
+W
+java:S1854":Remove this useless assignment to local variable "diskon".(ªÎ¹8‰ñ‚²ç1
+\
+java:S1854"":Remove this useless assignment to local variable "diskon".(·¶Š»úÿÿÿÿ8‰ñ‚²ç1
+[
+java:S1854
+"9Remove this useless assignment to local variable "pajak".(ÿ½øÿÿÿÿ8‰ñ‚²ç1
+C
+java:S1659"!Declare "qty" on a separate line.(Ã¹•şÿÿÿÿ8Šñ‚²ç1
+d
+java:S1659
+"BDeclare "pajak" and all following declarations on a separate line.(ÿ½øÿÿÿÿ8Šñ‚²ç1
+L
+java:S1481
+"*Remove this unused "pajak" local variable.(ÿ½øÿÿÿÿ8ñ‚²ç1
+M
+java:S1481
+"+Remove this unused "diskon" local variable.(ÿ½øÿÿÿÿ8ñ‚²ç1
+G	java:S106"+Replace this use of System.out by a logger.(ˆ›æŠ8ñ‚²ç1
+G	java:S106"+Replace this use of System.out by a logger.(¸şÈğ8ñ‚²ç1
+G	java:S106"+Replace this use of System.out by a logger.(Ó»âÄ8ñ‚²ç1
+L	java:S106"+Replace this use of System.out by a logger.(½Š¸Šûÿÿÿÿ8ñ‚²ç1
+L	java:S106"+Replace this use of System.out by a logger.(¨û“Ñúÿÿÿÿ8ñ‚²ç1
+G	java:S106"+Replace this use of System.out by a logger.(™²“õ8ñ‚²ç1
+L	java:S106"+Replace this use of System.out by a logger.(ı—´øÿÿÿÿ8ñ‚²ç1
+L	java:S106"+Replace this use of System.out by a logger.(¥ºîûùÿÿÿÿ8ñ‚²ç1
+>	java:S131""Add a default case to this switch.(ŞØı—8ñ‚²ç1
+L	java:S106&"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ñ‚²ç1
+G	java:S106'"+Replace this use of System.out by a logger.(Œ½¢¹8‘ñ‚²ç1
+L	java:S106("+Replace this use of System.out by a logger.(¢°…ˆıÿÿÿÿ8‘ñ‚²ç1

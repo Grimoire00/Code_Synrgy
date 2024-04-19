@@ -1,0 +1,10 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù£ˆâJ$881aadce-ef6d-4b5c-8ff4-1bf4f9522246
+£
+java:S4165"bRemove this useless assignment; "year" already holds the assigned value along all execution paths.(±½ÿ¡ıÿÿÿÿJ$77a9b25d-e910-4d39-a27b-90c109dafdd1
+t
+java:S5993"9Change the visibility of this constructor to "protected".(­±~J$69c59b5e-7780-4fb2-8682-1367752daa86
+u
+java:S5993"9Change the visibility of this constructor to "protected".(Ê®‹îJ$ba821d85-974f-4730-bba2-c3f46188bd20
+p
+java:S1656"/Remove or correct this useless self-assignment.(±½ÿ¡ıÿÿÿÿJ$39f99c2c-c593-4f26-a6b0-0855ec247d57
